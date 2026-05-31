@@ -1,4 +1,7 @@
-#hero {
-    background-image: url("images/borama.jpg");
-    background-size: cover;
+body {
+    text-align: center;
+}
+
+img {
+    width: 100px;
 }
