@@ -1,7 +1,7 @@
 body {
     margin: 0px;
-    font-family: verdana;
-    font-size: 12px;
+    font-family: Verdana;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -37,17 +37,24 @@ img {
     margin: 15px 60px;
 }
 
-#acts {
+#acts-section {
     height: 350px;
     border: 5px solid black;
     text-align: center;
-    background: #f3ffe9;
+    background: #deebff;
+    color: black;
 }
 
 #three-acts {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.act {
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
 }
 
 #guide {
