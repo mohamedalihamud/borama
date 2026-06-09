@@ -82,6 +82,7 @@ body {
 #guide-image {
     width: 150px;
     margin: 20px;
+    border-radius: 6px;
 }
 
 #guide-text {
